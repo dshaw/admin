@@ -22,6 +22,7 @@ For all votes, the vote must pass in both TSC and CommComm or else the motion fa
 ### Contacts for assistance
 - [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
+- [@dshaw](https://github.com/dshaw) - **Dan Shaw**, CommComm Member, User Feedback Champion, Mentorship
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
